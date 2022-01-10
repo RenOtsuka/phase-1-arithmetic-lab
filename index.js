@@ -11,3 +11,7 @@ let num4 = 9;
 let mod = num3 % num4;
 
 let max = Math.max(1, 2, 10, 20);
+
+const age = 6;
+const isAdult = age >= 18;
+console.log(isAdult);
